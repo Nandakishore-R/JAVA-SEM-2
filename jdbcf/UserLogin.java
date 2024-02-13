@@ -27,7 +27,7 @@ public class UserLogin{
     }
 
     public static int loginMenu(){
-        int ch = 3;
+        int ch = 2;
         Scanner s = new Scanner(System.in);
         try {
             System.out.println("\n\n1 -> Change Password\n2 -> Logout");
